@@ -8,7 +8,7 @@ To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-L
 
 ## Make the ChatBot your own
 
-I made a ChatBot that plays the Who Stole the Cookie from the Cookie Jar game, where the computer gives on line and then the user inputs the next line. 
+I made a ChatBot that plays the Who Stole the Cookie from the Cookie Jar game, where the computer gives one line and then the user inputs the next line. 
 
 ## Record someone trying out your ChatBot
 
